@@ -10,3 +10,7 @@
 
 - Veo una carpeta llamada .vscode con un archivo json adentro, un archivo tp1_1 binario generado por el compilador de c, el archivo tp1_1.c y mi .gitignore.
 - No hace falta que esten en el repositorio la carpeta .vscode ni su contenido y tampoco el archivo binario.
+
+# Respuesta apartado g del punto 3
+
+El resultado de los puntos 2 y 3 es el mismo porque el puntero guarda la dirección de memoria de la variable. En el punto 4, la dirección del puntero es diferente porque es una variable aparte con su propio espacio en memoria.
