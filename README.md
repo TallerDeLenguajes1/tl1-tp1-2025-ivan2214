@@ -5,3 +5,8 @@
 - Es conveniente incluirlo porque a veces no queremos subir arcihvos innecesarios a nuestro proyecto.
 - Se debe crear un archivo llamado .gitignore.
 - Se escribira los patrones a ignorar o los nombres de los arcihvos a ignorar dentro del archivo .gitignore.
+
+# Respuesta apartado c del punto 3
+
+- Veo una carpeta llamada .vscode con un archivo json adentro, un archivo tp1_1 binario generado por el compilador de c, el archivo tp1_1.c y mi .gitignore.
+- No hace falta que esten en el repositorio la carpeta .vscode ni su contenido y tampoco el archivo binario.
